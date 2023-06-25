@@ -1,18 +1,18 @@
-#Módulo Order Comments (Comentários no Pedido)
+# Módulo Order Comments (Comentários no Pedido)
 
 O Módulo Order Comments é desenvolvido para Magento 2 e permite que os clientes adicionem comentários, notas ou mensagens especiais ao fazer o pedido na página de checkout, que pode ser visualizada tanto no back-end do administrador quanto na conta do cliente.
 
-##Suporte: 
+## Suporte: 
 
 version - 2.3.x, 2.4.x
 
-##Como Instalar
+## Como Instalar
 
 1. Faça Download do repositório.
 2. Descompacte os arquivos.
 3. Copie a estrutura dentro da pasta raíz de sua loja Magento [/app/code/Sparsh/OrderComments]
 
-#Habilitar Módulo:
+# Habilitar Módulo:
 
 ```
 - php bin/magento module:enable PalacioDasFerramentas_OrderComments
@@ -22,7 +22,7 @@ version - 2.3.x, 2.4.x
 - php bin/magento cache:flush
 ```
 
-#Desabilitar Módulo:
+# Desabilitar Módulo:
 
 ```
 - php bin/magento module:disable PalacioDasFerramentas_OrderComments
