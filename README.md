@@ -8,9 +8,9 @@ version - 2.3.x, 2.4.x
 
 ## Como Instalar
 
-1. Faça Download do repositório.
-2. Descompacte os arquivos.
-3. Copie a estrutura dentro da pasta raíz de sua loja Magento [/app/code/Sparsh/OrderComments]
+1. Faça Download do repositório ou o clone.
+2. Descompacte os arquivos (se fez Download).
+3. Copie a estrutura para dentro da pasta raíz de sua loja Magento.
 
 # Habilitar Módulo:
 
